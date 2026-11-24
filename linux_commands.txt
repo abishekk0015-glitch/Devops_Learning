@@ -1,0 +1,5 @@
+Linux Commands - DevOps Learning
+1. pwd - Print working directory
+2. ls - List files
+3. mkdir - Create directory
+4. chmod - Change permissions
